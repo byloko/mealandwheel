@@ -1,0 +1,45 @@
+[26-Feb-2021 11:36:36 UTC] PHP Warning:  include(/home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/ClassLoader.php on line 444
+[26-Feb-2021 11:36:36 UTC] PHP Warning:  include(): Failed opening '/home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/ClassLoader.php on line 444
+[26-Feb-2021 11:36:36 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/fr in /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[03-Mar-2021 08:33:08 UTC] PHP Warning:  include(/home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/ClassLoader.php on line 444
+[03-Mar-2021 08:33:08 UTC] PHP Warning:  include(): Failed opening '/home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/ClassLoader.php on line 444
+[03-Mar-2021 08:33:08 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/fr in /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[03-Mar-2021 08:33:19 UTC] PHP Warning:  include(/home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/ClassLoader.php on line 444
+[03-Mar-2021 08:33:19 UTC] PHP Warning:  include(): Failed opening '/home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/ClassLoader.php on line 444
+[03-Mar-2021 08:33:19 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/fr in /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[08-Mar-2021 10:17:12 UTC] PHP Warning:  include(/home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/ClassLoader.php on line 444
+[08-Mar-2021 10:17:12 UTC] PHP Warning:  include(): Failed opening '/home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/ClassLoader.php on line 444
+[08-Mar-2021 10:17:12 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/fr in /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[08-Mar-2021 10:17:19 UTC] PHP Warning:  include(/home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/ClassLoader.php on line 444
+[08-Mar-2021 10:17:19 UTC] PHP Warning:  include(): Failed opening '/home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/qa311ckgde0c/public_html/mealandwheel/vendor/composer/ClassLoader.php on line 444
+[08-Mar-2021 10:17:19 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php(785): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/fr in /home/qa311ckgde0c/public_html/mealandwheel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
